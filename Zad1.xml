@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Matej</ime>
+    <prezime>Žnidarić</prezime>
+    <jmbg>9047349845128</jmbg>
+    <datumRodenja>11-02-2006</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+    <studijskiProgram>Informatički Dizajn</studijskiProgram>
+
+    <adresa>
+        <ulica>Zagrebačka 72</ulica>
+        <grad>Prigorje Brdovečko</grad>
+        <postanskiBroj>10291</postanskiBroj>
+    </adresa>
+</student>
