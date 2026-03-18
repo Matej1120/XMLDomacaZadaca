@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Matej</ime>
+    <prezime>Žnidarić</prezime>
+    <jmbg>9047349845128</jmbg>
+    <datumRodenja>11-02-2006</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+
+    <kontakt>
+	    <email>mznidaric@tvz.hr</email>
+        <telefon>0914236789</telefon>
+       
+    </kontakt>
+	
+	<kolegiji>
+		<kolegij1>
+			<nazivkolegij>Programiranje</nazivkolegij>
+			<imeprofesora>Bojan Nožica</imeprofesora>
+			<ects>6</ects>
+		</kolegij1>
+		
+		<kolegij2>
+			<nazivkolegij>Kineziološka Kultura</nazivkolegij>
+			<imeprofesora>Valter Perinović</imeprofesora>
+			<ects>1</ects>
+		</kolegij2>
+		
+		<kolegij3>
+			<nazivkolegij>Grafički Dizajn</nazivkolegij>
+			<imeprofesora>Morana Jugović</imeprofesora>
+			<ects>5</ects>
+		</kolegij3>
+	</kolegiji>
+</student>
