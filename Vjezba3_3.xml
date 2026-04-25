@@ -1,0 +1,15 @@
+<?xml verison="1.0" ?>
+<Osoba spol="M">
+    <Ime></Ime>
+    <Prezime></Prezime>
+    <MjestoStanovanja>
+        <Adresa></Adresa>
+        <Grad></Grad>
+        <Drzava></Drzava>
+    </MjestoStanovanja>
+    <Kontakt>
+        <Mobitel></Mobitel>
+        <KucniTelefon></KucniTelefon>
+        <Email></Email>    
+    </Kontakt>
+</Osoba>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+	<Ime>Matej</Ime>
+	<Prezime>Žnidarić</Prezime>
+	<MjestnoStanovanja>
+		<Adresa>Zagrebačka 72</Adresa>
+		<Grad>Prigorje Brdovečko</Grad>
+		<Drzava>Republika Hrvatska</Drzava>
+	</MjestnoStanovanja>
+	<NaruceniArtikl>
+		<Naziv>Frieren 20cm figurica</Naziv>
+		<Kolicina>1</Kolicina>
+		<Cijena>39,99 EUR</Cijena>
+	</NaruceniArtikl>
+</Narudzba>
