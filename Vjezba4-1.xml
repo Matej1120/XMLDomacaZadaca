@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="osoba.xsd">
+    <ime>Patrik</ime>
+    <cijena>299.89</cijena>
+    <godine>20</godine>
+    <aktivan>true</true>
+    <datumRodjenja>2006/12/04</datumRodjenja>
+    <vrijemePocetka>9:31:47</vrijemePocetka>
+</osoba>
